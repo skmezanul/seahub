@@ -1,0 +1,10 @@
+Hey there,
+
+you're in! Thanks for signing up for an account on disk42.com. Please click the link below to confirm your email address.
+https://{{ site.name }}{{ SITE_ROOT }}accounts/activate/{{ activation_key }}/
+
+To get started please see this video:
+https://www.disk42.com/intro/
+
+Thanks!
+
